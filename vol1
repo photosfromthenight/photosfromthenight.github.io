@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+h2 {img-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+pre {text-align: center;}
+</style>
+  <style>
+    body {
+      background-color: black;
+    }
+  </style>
+
+<p class="small">
+<h1 style="color:white;font-size:50px">Photos From The Night</h1>
+<h1 style="color:white;font-size:30px">Vol. I</h1>
+<h1 style="color:white;font-size:30px">COMING SOON</h1>
+<div style="text-align: center; margin-top: 25px;">
+  <a href="https://photosfromthenight.github.io/albums.html" style="color: white;">
+    click here to go back to photo albums
+  </a>
+<div style="text-align: center; margin-top: 5px;">
+  <a href="https://photosfromthenight.github.io/home.html" style="color: white;">
+    click here to go back home
+  </a>
+</div>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
